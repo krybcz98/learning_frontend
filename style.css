@@ -7,7 +7,12 @@ body {
 
 }
 
-section {
+.logo_picture {
+    width: 48px;
+    height: 48px;
+}
+
+.section {
     margin: 10px;
     padding: 1.5rem;
 
